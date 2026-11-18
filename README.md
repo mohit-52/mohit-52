@@ -206,7 +206,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/mohitsharma">
+<a href="https://linkedin.com/in/mohitsharma52g">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
