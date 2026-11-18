@@ -18,11 +18,11 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://leetcode.com/mohit-s2">
+<a href="https://leetcode.com/mohit-52">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=mohit-s2&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=mohit-52&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -126,17 +126,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohit-s2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohit-52&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-s2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-52&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=mohit-s2&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=mohit-52&theme=tokyonight&hide_border=true" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit-s2&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit-52&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="96%"/>
 
 </div>
 
@@ -145,7 +145,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohit-s2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="96%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohit-52&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="96%"/>
 </div>
 
 ---
@@ -214,7 +214,7 @@
   <img src="https://img.shields.io/badge/Email-Hire_Me!-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/mohit-s2">
+<a href="https://github.com/mohit-52">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
